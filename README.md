@@ -33,7 +33,7 @@ You have one way to run this project:
         ![image](https://i.imgur.com/IIzyrob.png)
 
 ## Notes important to read:
-   - The only thing that we change was the scripts that are in folder "src", changing: mean, std dev and other variables
+   - The only thing that we change/implement was the scripts that are in folder "src" and other unity variables like: mean, std dev and other variables
 
 ## Authors:
 - [João Silva](https://github.com/ikikara)
