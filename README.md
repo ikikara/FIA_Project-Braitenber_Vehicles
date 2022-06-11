@@ -10,7 +10,7 @@
 
 ## Description
 This was the 1st project developed for Artificial Intelligence Fundamentals subject @University of Coimbra, Informatics Engineering<br>
-Consists in develop a reactive agent that show different behaviors depending on the type of scene (aggressiveness, fear, love, ..)<br>
+Consists in develop a reactive agent that shows different behaviors(aggressiveness, fear, love, ..) depending on the type of scene and elements(lights and cars)<br>
 
 #### Main Languages:
 ![](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=895BE6)
