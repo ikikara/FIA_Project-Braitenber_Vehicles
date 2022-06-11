@@ -14,11 +14,10 @@ public class Rotate_Coin : MonoBehaviour{
     void Update(){
         this.transform.Rotate(rotation * Time.deltaTime);
     }
-    /*
+    
     private void OnTriggerEnter(Collider other){
         if (other.name == "Searcher"){         // Se o player colidir com a pickup
             Destroy(gameObject);
         }
     }
-*/
 }
