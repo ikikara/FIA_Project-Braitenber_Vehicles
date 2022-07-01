@@ -13,7 +13,7 @@ This was the 1st project developed for Artificial Intelligence Fundamentals subj
 Consists in develop a reactive agent that shows different behaviors(aggressiveness, fear, love, ..) depending on the type of scene and elements(lights and cars)<br>
 
 #### Main Languages:
-![](https://img.shields.io/badge/-CS-333333?style=flat&logo=C%2B%2B&logoColor=732FFA)
+![](https://img.shields.io/badge/-C%23-333333?style=flat&logo=C%2B%2B&logoColor=732FFA)
 
 ## Technologies used:
 1. Unity
