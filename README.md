@@ -37,6 +37,6 @@ You have one way to run this project:
    - If you want to know more about this project read the Statement or Report.
 
 ## Authors:
-- [João Silva](https://github.com/ikikara)
+- [João Silva](https://github.com/joaosilva21)
 - [Alexandre van Velze](https://github.com/alex6458)
 - [Sofia Botelho](https://github.com/sbalves)
